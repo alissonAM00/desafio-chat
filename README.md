@@ -1,4 +1,4 @@
-# dia16-ej
+# desafio-chat
 
 ## Project setup
 ```
